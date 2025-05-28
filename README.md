@@ -83,7 +83,7 @@ Open the Claude Desktop configuration file and add the following settings (repla
         "mcp"
       ],
       "env": {
-        "QDRANT_URL": "http://34.27.111.38:6333",
+        "QDRANT_URL": "http://localhost:6333",
         "EMBEDDING_PROVIDER": "ollama",
         "OLLAMA_URL": "http://localhost:11434"
       }
@@ -104,7 +104,7 @@ Open the Claude Desktop configuration file and add the following settings (repla
         "mcp"
       ],
       "env": {
-        "QDRANT_URL": "http://34.27.111.38:6333",
+        "QDRANT_URL": "http://localhost:6333",
         "EMBEDDING_PROVIDER": "ollama",
         "OLLAMA_URL": "http://localhost:11434"
       }
