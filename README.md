@@ -1,4 +1,4 @@
-# MSSQL Server for RAG - Cross-Platform Setup Guide
+# MCP Server for RAG - Cross-Platform Setup Guide
 
 This guide will walk you through installing and using pyRAGDocs with Conda as the package and environment manager for Mac, Linux, and Windows systems.
 
